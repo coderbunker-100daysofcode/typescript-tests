@@ -1,0 +1,23 @@
+{
+  "name": "typescript-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "node_modules/.bin/tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/coderbunker-100daysofcode/typescript-tests.git"
+  },
+  "author": "mpsido",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderbunker-100daysofcode/typescript-tests/issues"
+  },
+  "homepage": "https://github.com/coderbunker-100daysofcode/typescript-tests#readme",
+  "dependencies": {
+    "typescript": "^3.4.5"
+  }
+}
